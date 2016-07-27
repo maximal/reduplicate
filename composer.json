@@ -1,0 +1,21 @@
+{
+	"name": "maximal/reduplicate",
+	"description": "Shm- and hui-reduplication in Russian language",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "maximal",
+			"email": "almaximal@ya.ru"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"maximal\\reduplicate\\": ""
+		}
+	}
+}
